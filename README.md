@@ -4,7 +4,7 @@
 
 <p align="center"> 👩🏻‍💻 Full Stack Developer in Training & Aspiring Software Engineer 🌐 </p>
 
-<h2 align="center">🛠️ Tech Stack 🛠️</h2>
+<h2 align="center">🛠️ Tech Stack ⚙️</h2>
 
 <div align="center">
 
@@ -53,6 +53,13 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
+
+##  My Philosophy 💡:
+And a quote I live by:  
+  > *"The quiet choices I make today become the loud results of my tomorrow."*
+
+
+This means your habbits and choices  you make will define your future.
 
 
 
